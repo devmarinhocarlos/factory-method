@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author marinho
+ *
+ */
+module factorymethod {
+}
